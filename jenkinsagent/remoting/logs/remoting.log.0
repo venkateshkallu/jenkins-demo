@@ -1,0 +1,10 @@
+Aug 02, 2026 10:36:00 AM hudson.remoting.Launcher createEngine
+INFO: Setting up agent: agent1
+Aug 02, 2026 10:36:00 AM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3327.v868139a_d00e0
+Aug 02, 2026 10:36:00 AM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using /home/dell/jenkinsagent/remoting as a remoting work directory
+Aug 02, 2026 10:36:01 AM hudson.remoting.Launcher$CuiListener status
+INFO: WebSocket connection open
+Aug 02, 2026 10:36:01 AM hudson.remoting.Launcher$CuiListener status
+INFO: Connected
